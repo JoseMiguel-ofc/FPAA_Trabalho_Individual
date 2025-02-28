@@ -58,7 +58,7 @@ Bloco principal do script: solicita dois números ao usuário, chama a função 
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/MatVini0601/FPAA_trabalho_individual.git
+   git clone https://github.com/JoseMiguel-ofc/FPAA_Trabalho_Individual.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
